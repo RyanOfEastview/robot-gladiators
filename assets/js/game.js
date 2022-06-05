@@ -69,8 +69,3 @@ var fight = function () {
 
 //run fight function to start game
 fight();
-
-
-
-
-fight();
